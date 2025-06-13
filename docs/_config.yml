@@ -1,0 +1,9 @@
+title: "Підручник системного рок-н-рольщика"
+description:  "Автоматизація, Bash, Python, Telegram-боти, Docker та ще трохи чарівного шуму"
+theme: minima
+minima:
+	skin: dark
+	social_links:
+		github: Infomanser
+		email: lemonsnike@gmail.com
+markdown: kramdown
